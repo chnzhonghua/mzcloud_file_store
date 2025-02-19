@@ -1,0 +1,22 @@
+compound_name,matched_name,final_result,CID,IUPACName,MolecularFormula,MolecularWeight,KEGG_ID,HMDB_ID,CHEBI_ID,Similarity,mzcloud_Endogenous_info
+2-Piperidone,2-Piperidone,TRUE,12665,piperidin-2-one,C5H9NO,99.13,Not_Access,HMDB0011749,77761,1,12
+2-Hydroxybutyric acid,2-Hydroxybutyric acid,TRUE,11266,2-hydroxybutanoic acid,C4H8O3,104.1,Not_Access,Not_Access,1148,1,Excipients/Additives/Colorants
+Erythritol,Erythritol,TRUE,222285,"(2S,3R)-butane-1,2,3,4-tetrol",C4H10O4,122.12,C00503,HMDB0002994,17113,1,Industrial Chemicals
+Choline,2-hydroxyethyl(trimethyl)azanium,TRUE,305,2-hydroxyethyl(trimethyl)azanium,C5H14NO+,104.17,C00114,HMDB0000097,15354,1,NA
+trans-Allo-ocimene,"trans,trans-Alloocimene",TRUE,5368821,"(4E,6E)-2,6-dimethylocta-2,4,6-triene",C10H16,136.23,Not_Access,HMDB0061789,141222,0.8293,NA
+Uracil,Uracil,TRUE,1174,"1H-pyrimidine-2,4-dione",C4H4N2O2,112.09,C00106,HMDB0000300,17568,1,Endogenous Metabolites
+Caprolactam,Caprolactam,TRUE,7768,azepan-2-one,C6H11NO,113.16,C06593,HMDB0062769,28579,1,NA
+Isocaproic acid,Isocaproic acid,TRUE,12587,4-methylpentanoic acid,C6H12O2,116.16,C21399,HMDB0000689,74903,1,Endogenous Metabolites
+Caproic acid,Caproic acid,TRUE,8892,hexanoic acid,C6H12O2,116.16,C01585,HMDB0000535,30776,1,Endogenous Metabolites
+Methylmalonic acid,Methylmalonic acid,TRUE,487,2-methylpropanedioic acid,C4H6O4,118.09,C02170,HMDB0000202,30860,1,Endogenous Metabolites
+2-Methyl-3-hydroxybutyric acid,2-Methyl-3-hydroxybutyric acid,TRUE,160471,3-hydroxy-2-methylbutanoic acid,C5H10O3,118.13,Not_Access,HMDB0000354,37051,1,Endogenous Metabolites
+2-Ethylbutanoic acid,2-Ethylbutanoic acid,TRUE,6915,2-ethylbutanoic acid,C6H12O2,116.16,Not_Access,HMDB0031221,173424,1,Endogenous Metabolites
+2-methylpentanoate,2-methylpentanoic acid,TRUE,7341,2-methylpentanoic acid,C6H12O2,116.16,Not_Access,HMDB0031580,167644,1,NA
+Succinate,butanedioic acid,TRUE,1110,butanedioic acid,C4H6O4,118.09,C00042,HMDB0000254,15741,1,NA
+Methylmalonate,Methylmalonate,TRUE,487,2-methylpropanedioic acid,C4H6O4,118.09,C02170,HMDB0000202,30860,1,Endogenous Metabolites
+3-hydroxybenzaldehyde,3-hydroxybenzaldehyde,TRUE,101,3-hydroxybenzaldehyde,C7H6O2,122.12,C03067,Not_Access,16207,1,Endogenous Metabolites
+Benzoic acid,Benzoic acid,TRUE,243,benzoic acid,C7H6O2,122.12,C00180,HMDB0001870,30746,1,Endogenous Metabolites
+4-Hydroxybenzaldehyde,4-Hydroxybenzaldehyde,TRUE,126,4-hydroxybenzaldehyde,C7H6O2,122.12,C00633,HMDB0011718,17597,1,Endogenous Metabolites
+p-Toluquinone,p-Toluquinone,TRUE,11122,"2-methylcyclohexa-2,5-diene-1,4-dione",C7H6O2,122.12,Not_Access,Not_Access,Not_Access,1,NA
+Nicotinamide,Nicotinamide,TRUE,936,pyridine-3-carboxamide,C6H6N2O,122.12,C00153,HMDB0001406,17154,1,Endogenous Metabolites
+Taurine,Taurine,TRUE,1123,2-aminoethanesulfonic acid,C2H7NO3S,125.15,C00245,HMDB0000251,15891,1,Endogenous Metabolites
